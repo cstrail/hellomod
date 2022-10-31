@@ -8,6 +8,6 @@ fmt.Println("Hello Go!")
 }
 
 //Salut says "Hello Go!" in Romanian
-func SayHello(){
+func Salut(){
 fmt.Println("Salut Go!")
 }
